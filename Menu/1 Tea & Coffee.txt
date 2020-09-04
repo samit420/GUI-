@@ -1,0 +1,9 @@
+#Tea & Coffee
+Tea 30/-
+Coffee Americano (Black) 150/-
+Coffee Espresso 125/-
+Ice Tea (Lemon) 70/-
+Coffee Cappuccino 150/-
+Espresso (Black) 125/-
+Cold-Coffee 100/-
+
